@@ -1,0 +1,7 @@
+Beans 2
+Brinjal 2
+Carrot 3
+Potato 4
+Tomato 5
+Cabbage 1
+Onion 3
